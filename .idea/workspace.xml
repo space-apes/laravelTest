@@ -20,28 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="029bb565-1b8c-42f5-bf55-a8f8a422803c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/freshProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/freshProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freshProject/app/Http/Controllers/ArticlesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/freshProject/app/Http/Controllers/ArticlesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freshProject/app/Models/Article.php" beforeDir="false" afterPath="$PROJECT_DIR$/freshProject/app/Models/Article.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freshProject/resources/views/about.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/freshProject/resources/views/about.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freshProject/resources/views/articles/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/freshProject/resources/views/articles/create.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freshProject/resources/views/articles/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/freshProject/resources/views/articles/show.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freshProject/resources/views/articles/showSingle.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/freshProject/resources/views/articles/showSingle.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freshProject/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/freshProject/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/freshProject/composer.json</pharConfigPath>
     <execution>
       <executable path="composer" />
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/freshProject" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
     <include_path>
@@ -175,6 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605305270280</updated>
       <workItem from="1605305271992" duration="93000" />
+      <workItem from="1605305797876" duration="302000" />
     </task>
     <servers />
   </component>
@@ -191,5 +185,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
