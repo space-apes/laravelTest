@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="029bb565-1b8c-42f5-bf55-a8f8a422803c" name="Default Changelist" comment="committing both projects">
-      <change beforePath="$PROJECT_DIR$/authenticationExample/artisan" beforeDir="false" afterPath="$PROJECT_DIR$/authenticationExample/artisan" afterDir="false" />
+    <list default="true" id="029bb565-1b8c-42f5-bf55-a8f8a422803c" name="Default Changelist" comment="try again add both directories">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +168,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605305270280</updated>
       <workItem from="1605305271992" duration="93000" />
-      <workItem from="1605305797876" duration="916000" />
+      <workItem from="1605305797876" duration="1231000" />
     </task>
     <task id="LOCAL-00001" summary="created authentication example project">
       <created>1605306391776</created>
@@ -191,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605306584909</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="try again add both directories">
+      <created>1605306806062</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605306806062</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,16 +219,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created authentication example project" />
     <MESSAGE value="committing both projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="committing both projects" />
+    <MESSAGE value="try again add both directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="try again add both directories" />
   </component>
   <component name="WindowStateProjectService">
     <state x="461" y="165" key="SettingsEditor" timestamp="1605306308308">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605306308308" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605306596549">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605306828853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605306596549" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605306828853" />
   </component>
 </project>
