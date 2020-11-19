@@ -1,0 +1,14 @@
+/*
+ *RESTful conventions for route and controller names
+
+
+    HttpMethod  urlExample              controllerMethod    associated action
+
+    GET         /articles               index               retrieve all
+    GET         /articles/{article}     show                retrieve single resource
+    GET         /articles/create        create              get form to create new resource
+    POST        /articles               store               persist new resource
+    GET         /articles/{article}/edit edit               get form to update resource
+    PUT         /articles/{article}     update              persist updates to existing resource
+    DELETE      /articles/{article}     delete              remove resource
+ */

@@ -7,14 +7,18 @@ use App\Models\Article;
 use App\Models\Tag;
 
 /*
- *RESTful controller methods
- * index : retrieve all
- * show : retriever single
- * create : get form to store
- * store : generate new
- * edit : get form to update
- * update : change state of existing
- * delete : ...
+ *RESTful conventions for route and controller names
+
+
+    HttpMethod  urlExample              controllerMethod    associated action
+
+    GET         /articles               index               retrieve all
+    GET         /articles/{article}     show                retrieve single resource
+    GET         /articles/create        create              get form to create new resource
+    POST        /articles               store               persist new resource
+    GET         /articles/{article}/edit edit               get form to update resource
+    PUT         /articles/{article}     update              persist updates to existing resource
+    DELETE      /articles/{article}     delete              remove resource
  */
 
 

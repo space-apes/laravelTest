@@ -13,7 +13,12 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //
+        //EXPLICIT SERVICE REGISTER
+        app()->bind('App\Example', function(){
+            $collaborator = new \App\Collaborator();
+            $tempKey = config('services.importantSettings.key');
+            return new \App\Example($tempKey, $collaborator);
+        });
     }
 
     /**
